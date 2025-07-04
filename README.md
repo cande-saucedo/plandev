@@ -54,13 +54,13 @@ php artisan serve
 Uso
 -	Accede a la aplicación en http://localhost:8000
 -	Inicia sesión con las credenciales.
-		Usuario: admin@tamaulipas.gob.mx
-		Contraseña: 12345678
+		**Usuario: admin@tamaulipas.gob.mx
+		**Contraseña: 12345678
 -	Comienza a planear tus tareas semanales, registrar bitácoras y generar estadísticas por proyecto.
 
-## 📂 Documentación del proyecto
 
 ---
+## 📂 Documentación del proyecto
 
 Toda la documentación oficial del sistema se encuentra en el directorio documentacion/, el cual incluye:
 
