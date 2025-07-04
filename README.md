@@ -33,7 +33,7 @@ Optimizar la gestión semanal de tareas técnicas, mejorando la organización de
 ## ⚙️ Instalación del proyecto
 
 1. Clona el repositorio  
-git clone https://github.com/tuusuario/plandev.git
+	git clone https://github.com/cande-saucedo/plandev.git
 2. Ingresa al directorio
 cd plandev
 
@@ -52,13 +52,16 @@ cd plandev
 php artisan serve
 
 Uso
-•	Accede a la aplicación en http://localhost:8000
-•	Inicia sesión con las credenciales.
+-	Accede a la aplicación en http://localhost:8000
+-	Inicia sesión con las credenciales.
 		Usuario: admin@tamaulipas.gob.mx
 		Contraseña: 12345678
-•	Comienza a planear tus tareas semanales, registrar bitácoras y generar estadísticas por proyecto.
+-	Comienza a planear tus tareas semanales, registrar bitácoras y generar estadísticas por proyecto.
 
-📂 Documentación del proyecto
+## 📂 Documentación del proyecto
+
+---
+
 Toda la documentación oficial del sistema se encuentra en el directorio documentacion/, el cual incluye:
 
 📄 Requerimientos Funcionales: Documento que describe las funcionalidades del sistema, casos de uso y reglas de negocio.
