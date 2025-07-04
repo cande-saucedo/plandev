@@ -1,0 +1,14 @@
+  console.error
+    Failed to create chart: can't acquire context from the given item
+
+    [0m [90m 45 |[39m     [36mconst[39m ctx [33m=[39m canvas[33m.[39mgetContext([32m'2d'[39m)[33m;[39m
+     [90m 46 |[39m
+    [31m[1m>[22m[39m[90m 47 |[39m     [36mconst[39m chart [33m=[39m [36mnew[39m [33mChart[39m(ctx[33m,[39m {
+     [90m    |[39m                   [31m[1m^[22m[39m
+     [90m 48 |[39m       type[33m:[39m [32m'bar'[39m[33m,[39m
+     [90m 49 |[39m       data[33m:[39m {
+     [90m 50 |[39m         labels[33m:[39m labels[33m,[39m[0m
+
+      at new error (node_modules/chart.js/src/core/core.controller.js:184:15)
+      at Object.<anonymous> (resources/js/__tests__/chart-init.test.js:47:19)
+
